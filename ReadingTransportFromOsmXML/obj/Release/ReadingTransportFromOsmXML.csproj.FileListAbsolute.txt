@@ -1,0 +1,6 @@
+D:\Files\VS_Projects\ReadingTransportFromOsmXML\ReadingTransportFromOsmXML\bin\Release\ReadingTransportFromOsmXML.exe.config
+D:\Files\VS_Projects\ReadingTransportFromOsmXML\ReadingTransportFromOsmXML\bin\Release\ReadingTransportFromOsmXML.exe
+D:\Files\VS_Projects\ReadingTransportFromOsmXML\ReadingTransportFromOsmXML\bin\Release\ReadingTransportFromOsmXML.pdb
+D:\Files\VS_Projects\ReadingTransportFromOsmXML\ReadingTransportFromOsmXML\obj\Release\ReadingTransportFromOsmXML.exe
+D:\Files\VS_Projects\ReadingTransportFromOsmXML\ReadingTransportFromOsmXML\obj\Release\ReadingTransportFromOsmXML.pdb
+D:\Files\VS_Projects\ReadingTransportFromOsmXML\ReadingTransportFromOsmXML\obj\Release\ReadingTransportFromOsmXML.csprojResolveAssemblyReference.cache

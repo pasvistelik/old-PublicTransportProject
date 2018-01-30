@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.4.3 (15845 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="53.7090900" minlon="23.8053200" maxlat="53.7092200" maxlon="23.8054600"/>
+ <node id="2075107696" visible="true" version="3" changeset="19328681" timestamp="2013-12-07T20:06:01Z" user="victorenator" uid="247879" lat="53.7091640" lon="23.8053849">
+  <tag k="bus" v="yes"/>
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="улица Врублевского"/>
+  <tag k="name:be" v="вуліца Урублеўскага"/>
+  <tag k="name:ru" v="улица Врублевского"/>
+  <tag k="public_transport" v="platform"/>
+ </node>
+ <relation id="2886218" visible="true" version="20" changeset="32747112" timestamp="2015-07-20T07:05:34Z" user="victorenator" uid="247879">
+  <member type="way" ref="69974699" role=""/>
+  <member type="way" ref="29162822" role=""/>
+  <member type="way" ref="166602602" role=""/>
+  <member type="way" ref="166602601" role=""/>
+  <member type="way" ref="197234690" role=""/>
+  <member type="way" ref="197234696" role=""/>
+  <member type="way" ref="165993224" role=""/>
+  <member type="way" ref="166007920" role=""/>
+  <member type="way" ref="152835550" role=""/>
+  <member type="way" ref="217981993" role=""/>
+  <member type="way" ref="263406668" role=""/>
+  <member type="way" ref="263406671" role=""/>
+  <member type="way" ref="83306194" role=""/>
+  <member type="way" ref="47206519" role=""/>
+  <member type="way" ref="47206523" role=""/>
+  <member type="way" ref="47206521" role=""/>
+  <member type="way" ref="47206522" role=""/>
+  <member type="way" ref="34172010" role=""/>
+  <member type="way" ref="29155422" role=""/>
+  <member type="way" ref="37765646" role=""/>
+  <member type="way" ref="217566106" role=""/>
+  <member type="way" ref="29153119" role=""/>
+  <member type="way" ref="34349252" role=""/>
+  <member type="way" ref="29153120" role=""/>
+  <member type="way" ref="83306198" role=""/>
+  <member type="way" ref="87322350" role=""/>
+  <member type="way" ref="341021429" role=""/>
+  <member type="way" ref="361365637" role=""/>
+  <member type="way" ref="83306186" role=""/>
+  <member type="way" ref="34611371" role=""/>
+  <member type="way" ref="87322343" role=""/>
+  <member type="way" ref="87322327" role=""/>
+  <member type="way" ref="33741172" role=""/>
+  <member type="way" ref="33741171" role=""/>
+  <member type="way" ref="34756686" role=""/>
+  <member type="way" ref="29162804" role=""/>
+  <member type="way" ref="219533999" role=""/>
+  <member type="way" ref="37762372" role=""/>
+  <member type="way" ref="37762373" role=""/>
+  <member type="way" ref="216175450" role=""/>
+  <member type="way" ref="237419848" role=""/>
+  <member type="way" ref="221005198" role=""/>
+  <member type="way" ref="36833384" role=""/>
+  <member type="way" ref="33756245" role=""/>
+  <member type="way" ref="195394112" role=""/>
+  <member type="way" ref="158309239" role=""/>
+  <member type="way" ref="38552389" role=""/>
+  <member type="way" ref="43928298" role=""/>
+  <member type="way" ref="150991608" role=""/>
+  <member type="way" ref="197234692" role=""/>
+  <member type="node" ref="836147035" role="platform"/>
+  <member type="node" ref="506553533" role="platform"/>
+  <member type="node" ref="2304012841" role="platform"/>
+  <member type="node" ref="969186903" role="platform"/>
+  <member type="node" ref="969186910" role="platform"/>
+  <member type="node" ref="492603221" role="platform"/>
+  <member type="node" ref="969186915" role="platform"/>
+  <member type="node" ref="969186904" role="platform"/>
+  <member type="node" ref="483668126" role="platform"/>
+  <member type="node" ref="483668131" role="platform"/>
+  <member type="node" ref="431330918" role="platform"/>
+  <member type="node" ref="2574266485" role="platform"/>
+  <member type="node" ref="431335369" role="platform"/>
+  <member type="node" ref="1015286532" role="platform"/>
+  <member type="node" ref="431340008" role="platform"/>
+  <member type="node" ref="431341287" role="platform"/>
+  <member type="node" ref="2222979844" role="platform"/>
+  <member type="node" ref="353052064" role="platform"/>
+  <member type="node" ref="353051092" role="platform"/>
+  <member type="node" ref="431346173" role="platform"/>
+  <member type="node" ref="456382905" role="platform"/>
+  <member type="node" ref="558675966" role="platform"/>
+  <member type="node" ref="2075107696" role="platform_exit_only"/>
+  <tag k="from" v="улица Карского"/>
+  <tag k="name" v="Автобус № 15: улица Карского — улица Врублевского"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="15"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="улица Врублевского"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="3495416" visible="true" version="2" changeset="26721781" timestamp="2014-11-11T20:50:46Z" user="victorenator" uid="247879">
+  <member type="relation" ref="3495414" role=""/>
+  <member type="relation" ref="3495415" role=""/>
+  <tag k="name" v="Маршрутное такси № 22"/>
+  <tag k="ref" v="22т"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="2814088" visible="true" version="12" changeset="32532946" timestamp="2015-07-10T01:04:09Z" user="victorenator" uid="247879">
+  <member type="way" ref="353806617" role=""/>
+  <member type="way" ref="209619105" role=""/>
+  <member type="way" ref="199036948" role=""/>
+  <member type="way" ref="209619109" role=""/>
+  <member type="way" ref="99488909" role=""/>
+  <member type="way" ref="29163648" role=""/>
+  <member type="way" ref="297492239" role=""/>
+  <member type="way" ref="297492240" role=""/>
+  <member type="way" ref="218798716" role=""/>
+  <member type="way" ref="45095030" role=""/>
+  <member type="way" ref="29154475" role=""/>
+  <member type="way" ref="236853012" role=""/>
+  <member type="way" ref="158089144" role=""/>
+  <member type="way" ref="288432190" role=""/>
+  <member type="way" ref="164330468" role=""/>
+  <member type="way" ref="164330467" role=""/>
+  <member type="way" ref="306861181" role=""/>
+  <member type="way" ref="35037609" role=""/>
+  <member type="way" ref="189276990" role=""/>
+  <member type="way" ref="189276992" role=""/>
+  <member type="way" ref="35037608" role=""/>
+  <member type="way" ref="221646589" role=""/>
+  <member type="way" ref="195394116" role=""/>
+  <member type="way" ref="158309239" role=""/>
+  <member type="way" ref="38552389" role=""/>
+  <member type="way" ref="43928298" role=""/>
+  <member type="way" ref="150991608" role=""/>
+  <member type="way" ref="197234692" role=""/>
+  <member type="node" ref="3596106953" role="platform"/>
+  <member type="node" ref="2342024681" role="platform"/>
+  <member type="node" ref="2342024542" role="platform"/>
+  <member type="node" ref="969358856" role="platform"/>
+  <member type="node" ref="3643501538" role="platform"/>
+  <member type="node" ref="320676302" role="platform"/>
+  <member type="node" ref="571723336" role="platform"/>
+  <member type="node" ref="571696869" role="platform"/>
+  <member type="node" ref="2079132727" role="platform"/>
+  <member type="node" ref="2079132692" role="platform"/>
+  <member type="node" ref="431346173" role="platform"/>
+  <member type="node" ref="456382905" role="platform"/>
+  <member type="node" ref="558675966" role="platform"/>
+  <member type="node" ref="2075107696" role="platform_exit_only"/>
+  <tag k="from" v="Девятовка–7"/>
+  <tag k="name" v="Автобус № 46: Девятовка–7 — улица Врублевского"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="46"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="улица Врублевского"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="3495414" visible="true" version="18" changeset="37574477" timestamp="2016-03-02T21:22:40Z" user="Расслабон" uid="234168">
+  <member type="way" ref="29161821" role=""/>
+  <member type="way" ref="158089136" role=""/>
+  <member type="way" ref="163505917" role=""/>
+  <member type="way" ref="197708568" role=""/>
+  <member type="way" ref="256680095" role=""/>
+  <member type="way" ref="43570854" role=""/>
+  <member type="way" ref="83295751" role=""/>
+  <member type="way" ref="231386450" role=""/>
+  <member type="way" ref="29162644" role=""/>
+  <member type="way" ref="83295761" role=""/>
+  <member type="way" ref="29161239" role=""/>
+  <member type="way" ref="256680100" role=""/>
+  <member type="way" ref="29162625" role=""/>
+  <member type="way" ref="42084146" role=""/>
+  <member type="way" ref="35099573" role=""/>
+  <member type="way" ref="36778531" role=""/>
+  <member type="way" ref="34160537" role=""/>
+  <member type="way" ref="292409932" role=""/>
+  <member type="way" ref="292801560" role=""/>
+  <member type="way" ref="292801561" role=""/>
+  <member type="way" ref="150994544" role=""/>
+  <member type="way" ref="117918044" role=""/>
+  <member type="way" ref="209385541" role=""/>
+  <member type="way" ref="285943081" role=""/>
+  <member type="way" ref="293215927" role=""/>
+  <member type="way" ref="285943080" role=""/>
+  <member type="way" ref="293215928" role=""/>
+  <member type="way" ref="293215929" role=""/>
+  <member type="way" ref="356064198" role=""/>
+  <member type="way" ref="117918035" role=""/>
+  <member type="way" ref="61775162" role=""/>
+  <member type="way" ref="32086712" role=""/>
+  <member type="way" ref="117922267" role=""/>
+  <member type="way" ref="32086709" role=""/>
+  <member type="way" ref="29153157" role=""/>
+  <member type="way" ref="29155908" role=""/>
+  <member type="way" ref="83295759" role=""/>
+  <member type="way" ref="29155906" role=""/>
+  <member type="way" ref="68826797" role=""/>
+  <member type="way" ref="33473851" role=""/>
+  <member type="way" ref="32087494" role=""/>
+  <member type="way" ref="29162818" role=""/>
+  <member type="way" ref="307003565" role=""/>
+  <member type="way" ref="196925850" role=""/>
+  <member type="way" ref="196925851" role=""/>
+  <member type="way" ref="29153118" role=""/>
+  <member type="way" ref="41715308" role=""/>
+  <member type="way" ref="219534000" role=""/>
+  <member type="way" ref="163502168" role=""/>
+  <member type="way" ref="65080746" role=""/>
+  <member type="way" ref="29155895" role=""/>
+  <member type="way" ref="34133049" role=""/>
+  <member type="way" ref="87322344" role=""/>
+  <member type="way" ref="37766220" role=""/>
+  <member type="way" ref="83306198" role=""/>
+  <member type="way" ref="87322350" role=""/>
+  <member type="way" ref="29162867" role=""/>
+  <member type="way" ref="33836821" role=""/>
+  <member type="way" ref="33836822" role=""/>
+  <member type="way" ref="33816944" role=""/>
+  <member type="way" ref="33816945" role=""/>
+  <member type="way" ref="33741172" role=""/>
+  <member type="way" ref="33741171" role=""/>
+  <member type="way" ref="34756686" role=""/>
+  <member type="way" ref="29162804" role=""/>
+  <member type="way" ref="219533999" role=""/>
+  <member type="way" ref="37762372" role=""/>
+  <member type="way" ref="37762373" role=""/>
+  <member type="way" ref="216175450" role=""/>
+  <member type="way" ref="237419848" role=""/>
+  <member type="way" ref="221005198" role=""/>
+  <member type="way" ref="36833384" role=""/>
+  <member type="way" ref="33756245" role=""/>
+  <member type="way" ref="195394112" role=""/>
+  <member type="way" ref="158309239" role=""/>
+  <member type="way" ref="38552389" role=""/>
+  <member type="way" ref="43928298" role=""/>
+  <member type="way" ref="150991608" role=""/>
+  <member type="way" ref="197234692" role=""/>
+  <member type="node" ref="993522297" role="platform"/>
+  <member type="node" ref="824217336" role="platform"/>
+  <member type="node" ref="1030655685" role="platform"/>
+  <member type="node" ref="1523492652" role="platform"/>
+  <member type="node" ref="2079132714" role="platform"/>
+  <member type="node" ref="969186914" role="platform"/>
+  <member type="node" ref="468000466" role="platform"/>
+  <member type="node" ref="522814962" role="platform"/>
+  <member type="node" ref="522934860" role="platform"/>
+  <member type="node" ref="769817043" role="platform"/>
+  <member type="node" ref="522934882" role="platform"/>
+  <member type="node" ref="769847387" role="platform"/>
+  <member type="node" ref="769847376" role="platform"/>
+  <member type="node" ref="769847386" role="platform"/>
+  <member type="node" ref="969186894" role="platform"/>
+  <member type="node" ref="445394323" role="platform"/>
+  <member type="node" ref="1015286535" role="platform"/>
+  <member type="node" ref="1015286532" role="platform"/>
+  <member type="node" ref="431340008" role="platform"/>
+  <member type="node" ref="431341287" role="platform"/>
+  <member type="node" ref="2222979844" role="platform"/>
+  <member type="node" ref="353052064" role="platform"/>
+  <member type="node" ref="353051092" role="platform"/>
+  <member type="node" ref="431346173" role="platform"/>
+  <member type="node" ref="456382905" role="platform"/>
+  <member type="node" ref="558675966" role="platform"/>
+  <member type="node" ref="2075107696" role="platform"/>
+  <tag k="from" v="рынок &quot;Южный&quot;"/>
+  <tag k="name" v="Маршрутное такси № 22: рынок &quot;Южный&quot; — улица Врублевского"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="22т"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="улица Врублевского"/>
+  <tag k="type" v="route"/>
+ </relation>
+ <relation id="2886219" visible="true" version="3" changeset="26721781" timestamp="2014-11-11T20:50:43Z" user="victorenator" uid="247879">
+  <member type="relation" ref="2648871" role=""/>
+  <member type="relation" ref="2886218" role=""/>
+  <tag k="name" v="Автобус № 15"/>
+  <tag k="ref" v="15"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="2895927" visible="true" version="3" changeset="26721781" timestamp="2014-11-11T20:50:46Z" user="victorenator" uid="247879">
+  <member type="relation" ref="2814088" role=""/>
+  <member type="relation" ref="2895925" role=""/>
+  <tag k="name" v="Автобус № 46"/>
+  <tag k="ref" v="46"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="2884632" visible="true" version="3" changeset="26721781" timestamp="2014-11-11T20:50:46Z" user="victorenator" uid="247879">
+  <member type="relation" ref="2865077" role=""/>
+  <member type="relation" ref="2884626" role=""/>
+  <tag k="name" v="Автобус № 8"/>
+  <tag k="ref" v="8"/>
+  <tag k="route_master" v="bus"/>
+  <tag k="type" v="route_master"/>
+ </relation>
+ <relation id="2865077" visible="true" version="27" changeset="37574477" timestamp="2016-03-02T21:22:37Z" user="Расслабон" uid="234168">
+  <member type="way" ref="233591671" role=""/>
+  <member type="way" ref="233588111" role=""/>
+  <member type="way" ref="29161206" role=""/>
+  <member type="way" ref="29163620" role=""/>
+  <member type="way" ref="83295751" role=""/>
+  <member type="way" ref="231386450" role=""/>
+  <member type="way" ref="29162644" role=""/>
+  <member type="way" ref="83295761" role=""/>
+  <member type="way" ref="83295766" role=""/>
+  <member type="way" ref="83295753" role=""/>
+  <member type="way" ref="29161965" role=""/>
+  <member type="way" ref="172267996" role=""/>
+  <member type="way" ref="128922642" role=""/>
+  <member type="way" ref="382071250" role=""/>
+  <member type="way" ref="61775160" role=""/>
+  <member type="way" ref="32086712" role=""/>
+  <member type="way" ref="117922267" role=""/>
+  <member type="way" ref="32086709" role=""/>
+  <member type="way" ref="29153157" role=""/>
+  <member type="way" ref="29155908" role=""/>
+  <member type="way" ref="83295759" role=""/>
+  <member type="way" ref="29155906" role=""/>
+  <member type="way" ref="68826797" role=""/>
+  <member type="way" ref="33473851" role=""/>
+  <member type="way" ref="32087494" role=""/>
+  <member type="way" ref="29162818" role=""/>
+  <member type="way" ref="307003565" role=""/>
+  <member type="way" ref="196925850" role=""/>
+  <member type="way" ref="196925851" role=""/>
+  <member type="way" ref="29153118" role=""/>
+  <member type="way" ref="41715308" role=""/>
+  <member type="way" ref="219534000" role=""/>
+  <member type="way" ref="163502168" role=""/>
+  <member type="way" ref="65080746" role=""/>
+  <member type="way" ref="29155895" role=""/>
+  <member type="way" ref="34133049" role=""/>
+  <member type="way" ref="87322344" role=""/>
+  <member type="way" ref="37766220" role=""/>
+  <member type="way" ref="83306198" role=""/>
+  <member type="way" ref="87322350" role=""/>
+  <member type="way" ref="29162867" role=""/>
+  <member type="way" ref="33836821" role=""/>
+  <member type="way" ref="33836822" role=""/>
+  <member type="way" ref="33816944" role=""/>
+  <member type="way" ref="33816945" role=""/>
+  <member type="way" ref="33741172" role=""/>
+  <member type="way" ref="33741171" role=""/>
+  <member type="way" ref="34756686" role=""/>
+  <member type="way" ref="29162804" role=""/>
+  <member type="way" ref="219533999" role=""/>
+  <member type="way" ref="37762372" role=""/>
+  <member type="way" ref="37762373" role=""/>
+  <member type="way" ref="216175450" role=""/>
+  <member type="way" ref="237419848" role=""/>
+  <member type="way" ref="221005198" role=""/>
+  <member type="way" ref="29153353" role=""/>
+  <member type="way" ref="361974583" role=""/>
+  <member type="way" ref="35376559" role=""/>
+  <member type="way" ref="195394116" role=""/>
+  <member type="way" ref="29162500" role=""/>
+  <member type="way" ref="195524708" role=""/>
+  <member type="way" ref="29162523" role=""/>
+  <member type="way" ref="150991608" role=""/>
+  <member type="way" ref="197234692" role=""/>
+  <member type="node" ref="1523495751" role="platform"/>
+  <member type="node" ref="598298392" role="platform"/>
+  <member type="node" ref="969186925" role="platform"/>
+  <member type="node" ref="2079132714" role="platform"/>
+  <member type="node" ref="969186914" role="platform"/>
+  <member type="node" ref="769817040" role="platform"/>
+  <member type="node" ref="771956997" role="platform"/>
+  <member type="node" ref="917139972" role="platform"/>
+  <member type="node" ref="769847376" role="platform"/>
+  <member type="node" ref="769847386" role="platform"/>
+  <member type="node" ref="969186894" role="platform"/>
+  <member type="node" ref="445394323" role="platform"/>
+  <member type="node" ref="1015286535" role="platform"/>
+  <member type="node" ref="1015286532" role="platform"/>
+  <member type="node" ref="431340008" role="platform"/>
+  <member type="node" ref="431341287" role="platform"/>
+  <member type="node" ref="483668152" role="platform"/>
+  <member type="node" ref="483668159" role="platform"/>
+  <member type="node" ref="1017096351" role="platform"/>
+  <member type="node" ref="540468199" role="platform"/>
+  <member type="node" ref="558675966" role="platform"/>
+  <member type="node" ref="2075107696" role="platform_exit_only"/>
+  <tag k="from" v="Вишневец"/>
+  <tag k="name" v="Автобус № 8: Вишневец — улица Врублевского"/>
+  <tag k="public_transport:version" v="2"/>
+  <tag k="ref" v="8"/>
+  <tag k="route" v="bus"/>
+  <tag k="to" v="улица Врублевского"/>
+  <tag k="type" v="route"/>
+ </relation>
+</osm>

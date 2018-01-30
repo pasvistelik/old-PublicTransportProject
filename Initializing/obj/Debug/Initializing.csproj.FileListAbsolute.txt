@@ -1,0 +1,12 @@
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\bin\Debug\Initializing.exe.config
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\bin\Debug\Initializing.exe
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\bin\Debug\Initializing.pdb
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\bin\Debug\DatabaseMySQL.dll
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\bin\Debug\MySql.Data.dll
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\bin\Debug\Newtonsoft.Json.dll
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\bin\Debug\DatabaseMySQL.pdb
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\bin\Debug\MySql.Data.xml
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\bin\Debug\Newtonsoft.Json.xml
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\obj\Debug\Initializing.csprojResolveAssemblyReference.cache
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\obj\Debug\Initializing.exe
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\Initializing\obj\Debug\Initializing.pdb

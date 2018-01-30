@@ -1,0 +1,16 @@
+D:\Files\Other\Projects\PublicTransport\DatabaseMySQL\DatabaseMySQL\bin\Debug\DatabaseMySQL.dll
+D:\Files\Other\Projects\PublicTransport\DatabaseMySQL\DatabaseMySQL\bin\Debug\DatabaseMySQL.pdb
+D:\Files\Other\Projects\PublicTransport\DatabaseMySQL\DatabaseMySQL\bin\Debug\MySql.Data.dll
+D:\Files\Other\Projects\PublicTransport\DatabaseMySQL\DatabaseMySQL\bin\Debug\Newtonsoft.Json.dll
+D:\Files\Other\Projects\PublicTransport\DatabaseMySQL\DatabaseMySQL\bin\Debug\MySql.Data.xml
+D:\Files\Other\Projects\PublicTransport\DatabaseMySQL\DatabaseMySQL\obj\Debug\TransportClasses.csprojResolveAssemblyReference.cache
+D:\Files\Other\Projects\PublicTransport\DatabaseMySQL\DatabaseMySQL\obj\Debug\DatabaseMySQL.dll
+D:\Files\Other\Projects\PublicTransport\DatabaseMySQL\DatabaseMySQL\obj\Debug\DatabaseMySQL.pdb
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\DatabaseMySQL\obj\Debug\DatabaseMySQL.dll
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\DatabaseMySQL\obj\Debug\DatabaseMySQL.pdb
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\DatabaseMySQL\bin\Debug\DatabaseMySQL.dll
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\DatabaseMySQL\bin\Debug\DatabaseMySQL.pdb
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\DatabaseMySQL\bin\Debug\MySql.Data.dll
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\DatabaseMySQL\bin\Debug\Newtonsoft.Json.dll
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\DatabaseMySQL\bin\Debug\Newtonsoft.Json.xml
+D:\Files\Other\Projects\PublicTransport\PublicTransportProject\DatabaseMySQL\obj\Debug\TransportClasses.csprojResolveAssemblyReference.cache
